@@ -12,7 +12,7 @@ YouTube has tightened its control on age-restricted videos recently, meaning you
 
 (Keep that in mind if songs don't work, and maybe test links in browser with a LOGGED OUT Youtube account first if you suspect age-restriction. Additionally, region blocking is still a thing too.)
 
-- The "Song Picker" is OUT. YouTube search IN!:
+• The "Song Picker" is OUT. YouTube search IN!:
 The Song Picker list was static, subject to link decay, and required a whole world upload just to update song links.
 (Also the karaoke "CC Karaoke" YouTube channel had to nuke itself, leaving a huge 3742 hole in the Picker List too).
 To solve that, I replaced it with a direct YouTube search instead! Meaning you can be sure that any video you choose will be VALID. New public videos will appear, and removed ones won't. Beautiful thumbnails, names and descriptions too~
@@ -24,21 +24,21 @@ YouTubeの検索リンクに漢字が使えないため、日本語入力キー�
 現状、良い解決策が見つかっていないので、当面は通常のVRChatのテキスト入力方法を利用してください。
 よろしくお願いします～
 
-- The "Singer Queue" re-ordering!
+• The "Singer Queue" re-ordering!
 The Singer Queue also got a buff! Instance masters can now re-order songs!
 If you experience a crash, it sucks to lose your place in the queue. Well, now you can re-join the world, add your song back in again, and ask the instance master to kindly pop you back to your original place!
 
 (And it has to be said... Instance masters;
 Don't be a dick with this. Respect others AND their song choices. Don't bump peoples songs around without their consent.)
 
-- "Favourites List"!
+• "Favourites List"!
 And now with the newly added world persistance, we can have a link Favourites list!
 Add your favourite links to your own personal list, and have them available whenever you join the world!
 No more fumbling with OVR and copy/pasting from a browser. Or just fill it with cat meme videos, I'm not your boss...
 
 (Bear in mind that world persistance is still a relatively new feature, and may be subject to losing your data when I push world updates. Always keep a backup!)
 
-- Other stuff
+• Other stuff
 I've done a bit of other misc maintenance too:
 
 I've removed LTCGI - while it was only being used very minimally here, the performance hit of it just simply being there was quite substantial. It's was a fun feature but didn't add a great deal to the experience, and I think the performance increase will be more beneficial. Let me know how that goes. I have some ideas for a lightweight future replacement though that will work on EVERYONE. Not just LTCGI enabled shaders~
@@ -48,4 +48,6 @@ Added some more friend sticker places and improved their rendering~
 
 That's about it for now! More to come of course~
 Drink responsibly, join the Discord, Send me photos and videos on Bluesky... And HAVE FUN!
-Jay out. ¦3
+
+Jay, out. ¦3
+
