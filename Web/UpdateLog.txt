@@ -17,7 +17,7 @@ The Song Picker list was static, subject to link decay, and required a whole wor
 (Also the karaoke "CC Karaoke" YouTube channel had to nuke itself, leaving a huge 3742 hole in the Picker List too).
 To solve that, I replaced it with a direct YouTube search instead! Meaning you can be sure that any video you choose will be VALID. New public videos will appear, and removed ones won't. Beautiful thumbnails, names and descriptions too~
 
-(Just gotta add "sdfghsdfg" as a search term too to find karaoke videos specifically. I'm hoping to add that automatically at somepoint.)
+(Just gotta add "karaoke" as a search term too to find karaoke videos specifically. I'm hoping to add that automatically at somepoint.)
 
 日本のお友達の皆、ごめんなさい～
 YouTubeの検索リンクに漢字が使えないため、日本語入力キーボードを削除しました。
