@@ -1,3 +1,10 @@
+29/4/25 - VRChats New Audio
+
+VRC pulled a fast one and updated the audio system, reducing the voice latency by a decent amount! That's great news of course, but that threw the voice sync calculations out of whack...
+
+Well, I think I've dialled it back in now so you should be back in sync again. May still need some tweaks, but let me know~ ¦3
+
+
 1/4/25 - World Update! ʕ•́ᴥ•̀ʔっ
 
 Wewww, I'm SORRY for the lack of updates recently!
